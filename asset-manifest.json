@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fce4babe.css",
+    "main.js": "/portfolio/static/js/main.d99c848e.js",
+    "static/css/64.bba8fa55.chunk.css": "/portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.d5d412b8.chunk.js": "/portfolio/static/js/64.d5d412b8.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.ab5a9565.chunk.js": "/portfolio/static/js/769.ab5a9565.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/dypLogo.png": "/portfolio/static/media/dypLogo.5eaec2744f30504e9c34.png",
+    "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/Bhushan_Bachate_Resume.pdf": "/portfolio/static/media/Bhushan_Bachate_Resume.c797d156686e1da795c7.pdf",
+    "static/media/collegeLogo.png": "/portfolio/static/media/collegeLogo.355238b9f3dd0a73af48.png",
+    "static/media/abdmLogo.png": "/portfolio/static/media/abdmLogo.3befc70e4f8dc21fb959.png",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/airbnbLogo.png": "/portfolio/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/social.png": "/portfolio/static/media/social.2edea4dd623cdc49e8e7.png",
+    "static/media/batchma.png": "/portfolio/static/media/batchma.5daa4e7b1d84bfbd76bc.png",
+    "static/media/corpmainLogo.png": "/portfolio/static/media/corpmainLogo.42d0811edd27a2b36250.png",
+    "static/media/elabassistLogo.png": "/portfolio/static/media/elabassistLogo.42d0811edd27a2b36250.png",
+    "static/media/bhushan-profile.jpg": "/portfolio/static/media/bhushan-profile.f46d68b24e9b4f73ee8b.jpg",
+    "static/media/yssasLogo.png": "/portfolio/static/media/yssasLogo.8bc047f3bf7d21e769c4.png",
+    "static/media/praveetchLogo.png": "/portfolio/static/media/praveetchLogo.b83f056a4f150f0f6230.png",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.fce4babe.css.map": "/portfolio/static/css/main.fce4babe.css.map",
+    "main.d99c848e.js.map": "/portfolio/static/js/main.d99c848e.js.map",
+    "64.bba8fa55.chunk.css.map": "/portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.d5d412b8.chunk.js.map": "/portfolio/static/js/64.d5d412b8.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.ab5a9565.chunk.js.map": "/portfolio/static/js/769.ab5a9565.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce4babe.css",
+    "static/js/main.d99c848e.js"
+  ]
+}
