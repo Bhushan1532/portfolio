@@ -1,9 +1,9 @@
 import React from "react";
 import "./GithubProfileCard.scss";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import { contactInfo, isHireable } from "../../portfolio";
+import {contactInfo, isHireable} from "../../portfolio";
 import emoji from "react-easy-emoji";
-import { Fade } from "react-reveal";
+import {Fade} from "react-reveal";
 
 export default function GithubProfileCard() {
   const hireable = isHireable ? "Yes" : "No";
@@ -16,7 +16,13 @@ export default function GithubProfileCard() {
             <div className="blog-header">
               <p className="subTitle blog-subtitle">{contactInfo.subtitle}</p>
             </div>
-            <h2 className="bio-text">"{emoji('Passionate .NET Full Stack Developer from Kolhapur, India')}"</h2>
+            <h2 className="bio-text">
+              "
+              {emoji(
+                "Passionate .NET Full Stack Developer from Kolhapur, India"
+              )}
+              "
+            </h2>
             <div className="location-div">
               <span className="desc-prof">
                 <svg
@@ -41,8 +47,15 @@ export default function GithubProfileCard() {
               </span>
             </div>
             <div className="contact-details">
-              <p><strong>Phone:</strong> {contactInfo.number}</p>
-              <p><strong>Email:</strong> <a href={`mailto:${contactInfo.email_address}`}>{contactInfo.email_address}</a></p>
+              <p>
+                <strong>Phone:</strong> {contactInfo.number}
+              </p>
+              <p>
+                <strong>Email:</strong>{" "}
+                <a href={`mailto:${contactInfo.email_address}`}>
+                  {contactInfo.email_address}
+                </a>
+              </p>
             </div>
             <SocialMedia />
           </div>
